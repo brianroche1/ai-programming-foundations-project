@@ -1,5 +1,9 @@
 # AI Programming Foundations Project
 
+**Repository:** https://github.com/brianroche1/ai-programming-foundations-project
+**Branches:** `main` (default) and `development`
+**Version control:** the work was built across multiple commits — dataset and environment, notebook, README, then the module summary report — with the `development` branch used for subsequent revision and merged into `main` through pull request #1.
+
 ## Project Description
 
 A reusable Python data workflow built on the Titanic passenger manifest: ingestion with
@@ -15,6 +19,11 @@ Titanic passenger manifest — 891 rows, 12 columns.
 https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv
 
 ## How to Run
+
+Clone the repository:
+
+    git clone https://github.com/brianroche1/ai-programming-foundations-project.git
+    cd ai-programming-foundations-project
 
 Install dependencies:
 
